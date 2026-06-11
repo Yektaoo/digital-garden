@@ -1,1 +1,1 @@
-# digital-garden
+# digital-gardenفضایی برای رشد ایده‌ها و یادداشت‌های کوچک فنی. 
